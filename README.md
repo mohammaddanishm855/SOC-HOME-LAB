@@ -225,42 +225,7 @@ SOC-Home-Lab/
 ├── README.md
 ├── LICENSE
 ├── .gitignore
-│
-├── architecture/
-│   └── architecture.png
-│
-├── screenshots/
-│   ├── wazuh-dashboard.png
-│   ├── suricata-alert.png
-│   ├── sysmon-event.png
-│   ├── nmap-detection.png
-│   ├── alert-investigation.png
-│   └── mitre-mapping.png
-│
-├── wazuh/
-│   ├── rules/
-│   │   └── local_rules.xml
-│   └── configuration/
-│       └── ossec.conf.example
-│
-├── suricata/
-│   └── rules/
-│       └── local.rules
-│
-├── sysmon/
-│   └── sysmon-config.xml
-│
-├── attacks/
-│   ├── reconnaissance.md
-│   ├── authentication-attacks.md
-│   └── other-scenarios.md
-│
-├── investigations/
-│   ├── alert-investigation.md
-│   └── incident-response.md
-│
-└── mitre/
-    └── attack-mapping.md
+└── SETUP.md
 ```
 
 ---

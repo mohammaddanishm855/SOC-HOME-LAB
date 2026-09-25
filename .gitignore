@@ -1,0 +1,96 @@
+# ==============================
+# Operating System Files
+# ==============================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+
+# ==============================
+# Editors / IDEs
+# ==============================
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+
+# ==============================
+# Logs
+# ==============================
+
+*.log
+logs/
+*.pcap
+*.pcapng
+
+
+# ==============================
+# Environment / Secrets
+# ==============================
+
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+credentials/
+
+
+# ==============================
+# Local Configuration
+# ==============================
+
+*.local
+config.local.*
+credentials.local.*
+
+
+# ==============================
+# Virtual Machines
+# ==============================
+
+*.vdi
+*.vmdk
+*.vhd
+*.vhdx
+*.ova
+*.ovf
+VirtualBox VMs/
+
+
+# ==============================
+# Temporary / Backup Files
+# ==============================
+
+*.tmp
+*.temp
+*.bak
+*.backup
+*~
+.#*
+
+
+# ==============================
+# Python
+# ==============================
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+
+# ==============================
+# Node.js
+# ==============================
+
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
